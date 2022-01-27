@@ -14,7 +14,7 @@ function countLike() {
             dshow.innerText = dislike;
         } else {
             like = like + 1;
-            lshow.innerText = likes;
+            lshow.innerText = like;
         }
     }
 }
