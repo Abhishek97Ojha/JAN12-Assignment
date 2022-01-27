@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient( red, blue);
+    background-repeat: no-repeat;
+    height: 85vh;
+}
+
+main {
+    text-align: center;
+    margin-top: 250px;
+}
+
+span {
+    padding: 60px;
+}
+
+button {
+    background: linear-gradient(rgb(3, 148, 252), blue);
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 50px;
+    font-size: xx-large;
+}
